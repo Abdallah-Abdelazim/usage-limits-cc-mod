@@ -1,0 +1,5 @@
+.envrc
+.envrc.local
+.remember/
+logs/
+tmp/

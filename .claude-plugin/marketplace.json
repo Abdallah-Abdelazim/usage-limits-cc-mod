@@ -1,0 +1,7 @@
+{
+  "name": "usage-limits-local",
+  "owner": { "name": "Abdallah Abdelazim" },
+  "plugins": [
+    { "name": "usage-limits", "source": "./", "description": "Session (5h) and week (7d) rate-limit bars in the prompt footer" }
+  ]
+}
